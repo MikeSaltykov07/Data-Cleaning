@@ -1,3 +1,3 @@
 #%%
-def type_clean():
+def clean_type_data():
     pass
